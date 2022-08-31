@@ -6,7 +6,7 @@ System Analyst and Developer
 
 * 🌍  I'm based in Eger, Hungary
 * 🖥️  See my portfolio at [arvaid.tech](http://www.arvaid.tech)
-* ✉️  You can contact me at [arvai96@gmail.com](mailto:arvai96@gmail.com)
+* ✉️  You can contact me at [arvaid@arvaid.tech](mailto:arvaid@arvaid.tech)
 
 ### Skills
 
