@@ -1,7 +1,7 @@
 Hi 👋 My name is Dániel Árvai
 =============================
 
-System Analyst and Developer
+Java Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Eger, Hungary
